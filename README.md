@@ -1,6 +1,7 @@
 # Podcast Summarizer
 
-This project aims to summarize YouTube podcast videos into concise LinkedIn posts using various tools and technologies.
+This software utilizes Language Learning Models (LLMs) to turn a podcast conversation into a concise set of summary points.
+
 
 ## Basic Flow
 
